@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Wzorzec zbrodni	</title>
+	<atom:link href="/recenzje/wzorzec-zbrodni/feed/" rel="self" type="application/rss+xml" />
+	<link>/recenzje/wzorzec-zbrodni/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=wzorzec-zbrodni</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Fri, 16 Jan 2015 10:48:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Agnieszka Brodzik		</title>
+		<link>/recenzje/wzorzec-zbrodni/#comment-58</link>
+
+		<dc:creator><![CDATA[Agnieszka Brodzik]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 10:48:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11766#comment-58</guid>
+
+					<description><![CDATA[Napiszę to, co pisałam już przy innej recenzji WZ i co mówiliśmy w podcaście - jak się weźmie pod uwagę przeszłość artystyczną Ellisa to wtedy te przejaskrawione postacie nabierają sensu: są po prostu komiksowe. W ogóle uważam, że wydawca zdecydował się na zbyt elegancką oprawę - okładka jest bardzo ładna, ale sugeruje, że mamy do czynienia z typowym kryminałem/thrillerem. Tymczasem &quot;Gun Machine&quot; jest specyficzny i łatwo się od niego odbić, gdy się ma inne oczekiwania. Jak teraz czytam &quot;Crooked Little Vein&quot; to widzę, że zaczęło się od czegoś wyjątkowo porąbanego, raczej w stylu Palahniuka czy Wonga, a WZ to już przejście w coś bardziej klasycznego, a jednak z tym samym zacięciem do komiksowości, absurdu i antykryminału.]]></description>
+			<content:encoded><![CDATA[<p>Napiszę to, co pisałam już przy innej recenzji WZ i co mówiliśmy w podcaście &#8211; jak się weźmie pod uwagę przeszłość artystyczną Ellisa to wtedy te przejaskrawione postacie nabierają sensu: są po prostu komiksowe. W ogóle uważam, że wydawca zdecydował się na zbyt elegancką oprawę &#8211; okładka jest bardzo ładna, ale sugeruje, że mamy do czynienia z typowym kryminałem/thrillerem. Tymczasem &#8222;Gun Machine&#8221; jest specyficzny i łatwo się od niego odbić, gdy się ma inne oczekiwania. Jak teraz czytam &#8222;Crooked Little Vein&#8221; to widzę, że zaczęło się od czegoś wyjątkowo porąbanego, raczej w stylu Palahniuka czy Wonga, a WZ to już przejście w coś bardziej klasycznego, a jednak z tym samym zacięciem do komiksowości, absurdu i antykryminału.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

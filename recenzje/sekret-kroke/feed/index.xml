@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Sekret Kroke	</title>
+	<atom:link href="/recenzje/sekret-kroke/feed/" rel="self" type="application/rss+xml" />
+	<link>/recenzje/sekret-kroke/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=sekret-kroke</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Wed, 17 Feb 2016 20:04:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Sekret Kroke &#124; kuzminscy.com		</title>
+		<link>/recenzje/sekret-kroke/#comment-442</link>
+
+		<dc:creator><![CDATA[Sekret Kroke &#124; kuzminscy.com]]></dc:creator>
+		<pubDate>Wed, 17 Feb 2016 20:04:13 +0000</pubDate>
+		<guid isPermaLink="false">http://wsqn.home.pl/cn/?p=2115#comment-442</guid>
+
+					<description><![CDATA[[&#8230;] Świetna zabawa z kon­wen­cją (&#8230;) Auto­rzy na rynek pol­skich kry­mi­na­łów retro wdarli się prze­bo­jem Rafał Chojnacki &#124; CarpeNoctem.pl [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Świetna zabawa z kon­wen­cją (&#8230;) Auto­rzy na rynek pol­skich kry­mi­na­łów retro wdarli się prze­bo­jem Rafał Chojnacki | CarpeNoctem.pl [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

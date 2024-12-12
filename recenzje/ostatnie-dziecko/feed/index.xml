@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Ostatnie dziecko	</title>
+	<atom:link href="/recenzje/ostatnie-dziecko/feed/" rel="self" type="application/rss+xml" />
+	<link>/recenzje/ostatnie-dziecko/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=ostatnie-dziecko</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Wed, 14 Jun 2017 10:50:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Agnieszka Brodzik		</title>
+		<link>/recenzje/ostatnie-dziecko/#comment-705</link>
+
+		<dc:creator><![CDATA[Agnieszka Brodzik]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2017 10:50:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=13285#comment-705</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/recenzje/ostatnie-dziecko/#comment-702&quot;&gt;Piotr Wysocki&lt;/a&gt;.
+
+Nie czytałam nic innego, więc nie wiem, niestety. Raczej nie sięgnę po inne tytuły tego kolesia ;)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/recenzje/ostatnie-dziecko/#comment-702">Piotr Wysocki</a>.</p>
+<p>Nie czytałam nic innego, więc nie wiem, niestety. Raczej nie sięgnę po inne tytuły tego kolesia ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Piotr Wysocki		</title>
+		<link>/recenzje/ostatnie-dziecko/#comment-702</link>
+
+		<dc:creator><![CDATA[Piotr Wysocki]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2017 20:07:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=13285#comment-702</guid>
+
+					<description><![CDATA[Mam pierwsze wydanie, kupiłem kilka lat temu za grosze na Dedalusie, ale po Twojej opinii coś mi się wydaje, że jeszcze długo poczeka na swoją kolej :P Czytałaś coś jeszcze Fitzka? Bo ciekaw jestem, to wypadek przy pracy czy wszystkie jego książki są takimi tanimi czytadłami. Mam też jego &quot;Makabryczną grę&quot;, kupioną tego samego dnia w tym samym sklepie, stąd te rozważania :P ]]></description>
+			<content:encoded><![CDATA[<p>Mam pierwsze wydanie, kupiłem kilka lat temu za grosze na Dedalusie, ale po Twojej opinii coś mi się wydaje, że jeszcze długo poczeka na swoją kolej :P Czytałaś coś jeszcze Fitzka? Bo ciekaw jestem, to wypadek przy pracy czy wszystkie jego książki są takimi tanimi czytadłami. Mam też jego &#8222;Makabryczną grę&#8221;, kupioną tego samego dnia w tym samym sklepie, stąd te rozważania :P </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

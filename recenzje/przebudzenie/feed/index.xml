@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Przebudzenie	</title>
+	<atom:link href="/recenzje/przebudzenie/feed/" rel="self" type="application/rss+xml" />
+	<link>/recenzje/przebudzenie/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=przebudzenie</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Tue, 30 Dec 2014 15:44:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Jerry		</title>
+		<link>/recenzje/przebudzenie/#comment-50</link>
+
+		<dc:creator><![CDATA[Jerry]]></dc:creator>
+		<pubDate>Tue, 30 Dec 2014 15:44:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11556#comment-50</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/recenzje/przebudzenie/#comment-49&quot;&gt;Agnieszka Brodzik&lt;/a&gt;.
+
+Sprawdź, sprawdź. Ciekawe jak mniej spaczone kingiem oko spojrzy na &quot;Przebudzenie&quot;. A części obyczajowej nie musisz się obawiać, bo ta książka sama się czyta i ani się nie obejrzysz i będziesz po lekturze ;)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/recenzje/przebudzenie/#comment-49">Agnieszka Brodzik</a>.</p>
+<p>Sprawdź, sprawdź. Ciekawe jak mniej spaczone kingiem oko spojrzy na &#8222;Przebudzenie&#8221;. A części obyczajowej nie musisz się obawiać, bo ta książka sama się czyta i ani się nie obejrzysz i będziesz po lekturze ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Agnieszka Brodzik		</title>
+		<link>/recenzje/przebudzenie/#comment-49</link>
+
+		<dc:creator><![CDATA[Agnieszka Brodzik]]></dc:creator>
+		<pubDate>Tue, 30 Dec 2014 15:02:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11556#comment-49</guid>
+
+					<description><![CDATA[Czytałam kilka różnych recenzji &quot;Przebudzenia&quot; i powiem Ci, Michał, że kusi jednak, żeby sprawdzić i wyrobić sobie zdanie. Tylko nie chce mi się przekopywać przez część obyczajową :P Ale w sumie w jednej recce koleś (niby profesjonalista) streścił chyba większość książki, więc może przejdę od razu do finału :D]]></description>
+			<content:encoded><![CDATA[<p>Czytałam kilka różnych recenzji &#8222;Przebudzenia&#8221; i powiem Ci, Michał, że kusi jednak, żeby sprawdzić i wyrobić sobie zdanie. Tylko nie chce mi się przekopywać przez część obyczajową :P Ale w sumie w jednej recce koleś (niby profesjonalista) streścił chyba większość książki, więc może przejdę od razu do finału :D</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

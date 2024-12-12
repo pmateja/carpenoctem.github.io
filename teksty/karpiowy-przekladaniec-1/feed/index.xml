@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Przekładany #1	</title>
+	<atom:link href="/teksty/karpiowy-przekladaniec-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/teksty/karpiowy-przekladaniec-1/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=karpiowy-przekladaniec-1</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Wed, 17 Feb 2021 19:22:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Agnieszka Brodzik		</title>
+		<link>/teksty/karpiowy-przekladaniec-1/#comment-438</link>
+
+		<dc:creator><![CDATA[Agnieszka Brodzik]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2016 18:29:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12577#comment-438</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/teksty/karpiowy-przekladaniec-1/#comment-437&quot;&gt;old weirdman&lt;/a&gt;.
+
+Dzięki. Na pewno będzie, bo tematów jest multum i w sumie z przyjemnością mi się o tym gadało :)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/teksty/karpiowy-przekladaniec-1/#comment-437">old weirdman</a>.</p>
+<p>Dzięki. Na pewno będzie, bo tematów jest multum i w sumie z przyjemnością mi się o tym gadało :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: old weirdman		</title>
+		<link>/teksty/karpiowy-przekladaniec-1/#comment-437</link>
+
+		<dc:creator><![CDATA[old weirdman]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2016 17:14:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12577#comment-437</guid>
+
+					<description><![CDATA[Miałaś dobry pomysł z tym cyklem;przybliżyć nam tajemnicze życie tłumaczy. Czekam na kolejny odcinek:-).]]></description>
+			<content:encoded><![CDATA[<p>Miałaś dobry pomysł z tym cyklem;przybliżyć nam tajemnicze życie tłumaczy. Czekam na kolejny odcinek:-).</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

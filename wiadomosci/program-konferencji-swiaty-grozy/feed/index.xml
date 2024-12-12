@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Program Konferencji Światy Grozy	</title>
+	<atom:link href="/wiadomosci/program-konferencji-swiaty-grozy/feed/" rel="self" type="application/rss+xml" />
+	<link>/wiadomosci/program-konferencji-swiaty-grozy/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=program-konferencji-swiaty-grozy</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Wed, 28 Jan 2015 13:29:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Agnieszka Brodzik		</title>
+		<link>/wiadomosci/program-konferencji-swiaty-grozy/#comment-66</link>
+
+		<dc:creator><![CDATA[Agnieszka Brodzik]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2015 13:29:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11813#comment-66</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/wiadomosci/program-konferencji-swiaty-grozy/#comment-65&quot;&gt;maszynistaGrot&lt;/a&gt;.
+
+Ja się boję, że moja lista &quot;do przeczytania&quot; znacznie się wydłuży po tej konferencji ;)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/wiadomosci/program-konferencji-swiaty-grozy/#comment-65">maszynistaGrot</a>.</p>
+<p>Ja się boję, że moja lista &#8222;do przeczytania&#8221; znacznie się wydłuży po tej konferencji ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: maszynistaGrot		</title>
+		<link>/wiadomosci/program-konferencji-swiaty-grozy/#comment-65</link>
+
+		<dc:creator><![CDATA[maszynistaGrot]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2015 12:25:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11813#comment-65</guid>
+
+					<description><![CDATA[Ciekawe tematy, &quot;polskie powieści grozy XVIII/XIX w.&quot; Ech, wiele człowiek ma jeszcze zaległości literackich do nadrobienia...]]></description>
+			<content:encoded><![CDATA[<p>Ciekawe tematy, &#8222;polskie powieści grozy XVIII/XIX w.&#8221; Ech, wiele człowiek ma jeszcze zaległości literackich do nadrobienia&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

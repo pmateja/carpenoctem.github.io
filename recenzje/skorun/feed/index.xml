@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Skoruń	</title>
+	<atom:link href="/recenzje/skorun/feed/" rel="self" type="application/rss+xml" />
+	<link>/recenzje/skorun/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=skorun</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Wed, 09 Mar 2016 13:53:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: maszynistaGrot		</title>
+		<link>/recenzje/skorun/#comment-449</link>
+
+		<dc:creator><![CDATA[maszynistaGrot]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2016 13:53:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12640#comment-449</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/recenzje/skorun/#comment-447&quot;&gt;Paweł Mateja&lt;/a&gt;.
+
+Rzeczywiście Płaza to solidna marka. Sam coraz bardziej się do niego przekonuje. Właśnie odświeżam sobie &quot;Przypadek Charlesa Dextera Warda&quot; w jego tłumaczenia i jest wyśmienicie. Z tym że taki skok z recenzenta/tłumacza do pisarza to zawsze niewiadoma, na pewno będę chciał choćby z ciekawości tego &quot;Skorunia&quot; przeczytać ale jeszcze nie wiem kiedy.]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/recenzje/skorun/#comment-447">Paweł Mateja</a>.</p>
+<p>Rzeczywiście Płaza to solidna marka. Sam coraz bardziej się do niego przekonuje. Właśnie odświeżam sobie &#8222;Przypadek Charlesa Dextera Warda&#8221; w jego tłumaczenia i jest wyśmienicie. Z tym że taki skok z recenzenta/tłumacza do pisarza to zawsze niewiadoma, na pewno będę chciał choćby z ciekawości tego &#8222;Skorunia&#8221; przeczytać ale jeszcze nie wiem kiedy.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Paweł Mateja		</title>
+		<link>/recenzje/skorun/#comment-447</link>
+
+		<dc:creator><![CDATA[Paweł Mateja]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2016 08:54:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12640#comment-447</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/recenzje/skorun/#comment-444&quot;&gt;maszynistaGrot&lt;/a&gt;.
+
+Sugerowałbym może czytanie tego latem albo wczesną jesienią, serio. Wtedy odbiór byłby chyba najlepszy. A to jest naprawdę świetna literatura, choć z opisu może średnio zachęcać fana grozy. Ale warto - nazwisko Płazy robi się uniwersalną marką ;)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/recenzje/skorun/#comment-444">maszynistaGrot</a>.</p>
+<p>Sugerowałbym może czytanie tego latem albo wczesną jesienią, serio. Wtedy odbiór byłby chyba najlepszy. A to jest naprawdę świetna literatura, choć z opisu może średnio zachęcać fana grozy. Ale warto &#8211; nazwisko Płazy robi się uniwersalną marką ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: maszynistaGrot		</title>
+		<link>/recenzje/skorun/#comment-444</link>
+
+		<dc:creator><![CDATA[maszynistaGrot]]></dc:creator>
+		<pubDate>Mon, 29 Feb 2016 14:41:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12640#comment-444</guid>
+
+					<description><![CDATA[Ładna laurka Paweł, zachęciłeś mnie do lektury, jednak mam na razie inne pozycje w planie. Teraz wiemy dlaczego druga część Zgrozy tak się opóźnia :)]]></description>
+			<content:encoded><![CDATA[<p>Ładna laurka Paweł, zachęciłeś mnie do lektury, jednak mam na razie inne pozycje w planie. Teraz wiemy dlaczego druga część Zgrozy tak się opóźnia :)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

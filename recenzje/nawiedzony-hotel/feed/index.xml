@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Nawiedzony hotel	</title>
+	<atom:link href="/recenzje/nawiedzony-hotel/feed/" rel="self" type="application/rss+xml" />
+	<link>/recenzje/nawiedzony-hotel/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=nawiedzony-hotel</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Sat, 28 Nov 2015 19:28:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Paweł Mateja		</title>
+		<link>/recenzje/nawiedzony-hotel/#comment-244</link>
+
+		<dc:creator><![CDATA[Paweł Mateja]]></dc:creator>
+		<pubDate>Sun, 20 Sep 2015 19:38:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12300#comment-244</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/recenzje/nawiedzony-hotel/#comment-238&quot;&gt;Piotr Borowiec&lt;/a&gt;.
+
+Collins w ogóle o wiele bardziej znany jest z dłuższych form, niż opowiadań, więc - mimo iż tomik mnie nie powalił - na pewno sobie je nadrobię, szczególnie że Zysk trochę tego powznawiał. Pewnie szybko się za inne jego rzeczy nie zabiorę, bo nie ma kiedy, ale w dłuższej perspektywie koniecznie, bo po prostu lubię takie klimaty ;)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/recenzje/nawiedzony-hotel/#comment-238">Piotr Borowiec</a>.</p>
+<p>Collins w ogóle o wiele bardziej znany jest z dłuższych form, niż opowiadań, więc &#8211; mimo iż tomik mnie nie powalił &#8211; na pewno sobie je nadrobię, szczególnie że Zysk trochę tego powznawiał. Pewnie szybko się za inne jego rzeczy nie zabiorę, bo nie ma kiedy, ale w dłuższej perspektywie koniecznie, bo po prostu lubię takie klimaty ;)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Piotr Borowiec		</title>
+		<link>/recenzje/nawiedzony-hotel/#comment-238</link>
+
+		<dc:creator><![CDATA[Piotr Borowiec]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2015 18:15:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12300#comment-238</guid>
+
+					<description><![CDATA[Fajnie, że zysk wydał zbiór krótszych form tego autora, i dodał do tego „Tajemnicę pałacu w
+Wenecji”, jednak Collins nie zapisał się w historii jako pisarz ghost story.  Nie czytałem jeszcze tego zbioru, chociaż wiele tekstów znam skądinąd. Wydaje mi się jednak, że jest to pozycja dla tych którzy znają  inne, ważniejsze rzeczy pisarza. Jeśli ktoś w ogóle nie miał z nim styczności, to powinien najpierw przeczytać „Kobietę w bieli”.]]></description>
+			<content:encoded><![CDATA[<p>Fajnie, że zysk wydał zbiór krótszych form tego autora, i dodał do tego „Tajemnicę pałacu w<br />
+Wenecji”, jednak Collins nie zapisał się w historii jako pisarz ghost story.  Nie czytałem jeszcze tego zbioru, chociaż wiele tekstów znam skądinąd. Wydaje mi się jednak, że jest to pozycja dla tych którzy znają  inne, ważniejsze rzeczy pisarza. Jeśli ktoś w ogóle nie miał z nim styczności, to powinien najpierw przeczytać „Kobietę w bieli”.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

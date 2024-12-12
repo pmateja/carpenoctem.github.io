@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Joyce Carol Oates. Przeklęci	</title>
+	<atom:link href="/wiadomosci/cytat-przekleci/feed/" rel="self" type="application/rss+xml" />
+	<link>/wiadomosci/cytat-przekleci/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=cytat-przekleci</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Sun, 13 Sep 2015 15:52:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Agnieszka Brodzik		</title>
+		<link>/wiadomosci/cytat-przekleci/#comment-236</link>
+
+		<dc:creator><![CDATA[Agnieszka Brodzik]]></dc:creator>
+		<pubDate>Sun, 13 Sep 2015 15:52:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12287#comment-236</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/wiadomosci/cytat-przekleci/#comment-232&quot;&gt;oldweirdman&lt;/a&gt;.
+
+Mam i nie zawaham się przeczytać! :)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/wiadomosci/cytat-przekleci/#comment-232">oldweirdman</a>.</p>
+<p>Mam i nie zawaham się przeczytać! :)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: oldweirdman		</title>
+		<link>/wiadomosci/cytat-przekleci/#comment-232</link>
+
+		<dc:creator><![CDATA[oldweirdman]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2015 15:11:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12287#comment-232</guid>
+
+					<description><![CDATA[Wspaniała pisarka. Polecam zwłaszcza jej zbiór opowiadań &quot;Muzeum doktora Mosesa&quot;-bardzo dobry!]]></description>
+			<content:encoded><![CDATA[<p>Wspaniała pisarka. Polecam zwłaszcza jej zbiór opowiadań &#8222;Muzeum doktora Mosesa&#8221;-bardzo dobry!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

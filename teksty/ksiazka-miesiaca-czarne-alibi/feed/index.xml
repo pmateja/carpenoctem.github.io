@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Książka miesiąca: Czarne alibi	</title>
+	<atom:link href="/teksty/ksiazka-miesiaca-czarne-alibi/feed/" rel="self" type="application/rss+xml" />
+	<link>/teksty/ksiazka-miesiaca-czarne-alibi/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=ksiazka-miesiaca-czarne-alibi</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Sat, 25 Jul 2015 08:20:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: maszynistaGrot		</title>
+		<link>/teksty/ksiazka-miesiaca-czarne-alibi/#comment-131</link>
+
+		<dc:creator><![CDATA[maszynistaGrot]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2015 11:11:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12088#comment-131</guid>
+
+					<description><![CDATA[Mam pytanie do pana Pawła Marszałka - czy planuje kiedykolwiek wydać &quot;Sokoła Maltańskiego&quot;. Klasyka kryminału, od dawna za mną ten tytuł chodzi.]]></description>
+			<content:encoded><![CDATA[<p>Mam pytanie do pana Pawła Marszałka &#8211; czy planuje kiedykolwiek wydać &#8222;Sokoła Maltańskiego&#8221;. Klasyka kryminału, od dawna za mną ten tytuł chodzi.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: old weirdman		</title>
+		<link>/teksty/ksiazka-miesiaca-czarne-alibi/#comment-129</link>
+
+		<dc:creator><![CDATA[old weirdman]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2015 09:31:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12088#comment-129</guid>
+
+					<description><![CDATA[Świetnie,że Pan Paweł Marszałek w końcu tutaj zagościł!]]></description>
+			<content:encoded><![CDATA[<p>Świetnie,że Pan Paweł Marszałek w końcu tutaj zagościł!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Wznowienia Ketchuma	</title>
+	<atom:link href="/wiadomosci/wznowienia-ketchuma/feed/" rel="self" type="application/rss+xml" />
+	<link>/wiadomosci/wznowienia-ketchuma/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=wznowienia-ketchuma</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Tue, 02 Feb 2016 18:46:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Agnieszka Brodzik		</title>
+		<link>/wiadomosci/wznowienia-ketchuma/#comment-436</link>
+
+		<dc:creator><![CDATA[Agnieszka Brodzik]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2016 20:01:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12544#comment-436</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/wiadomosci/wznowienia-ketchuma/#comment-435&quot;&gt;Mandous&lt;/a&gt;.
+
+Nope. Ale mogę zapytać.]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/wiadomosci/wznowienia-ketchuma/#comment-435">Mandous</a>.</p>
+<p>Nope. Ale mogę zapytać.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Mandous		</title>
+		<link>/wiadomosci/wznowienia-ketchuma/#comment-435</link>
+
+		<dc:creator><![CDATA[Mandous]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2016 19:46:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12544#comment-435</guid>
+
+					<description><![CDATA[Wiadomo z jaką okładką będzie &quot;Dziewczyna&quot;?]]></description>
+			<content:encoded><![CDATA[<p>Wiadomo z jaką okładką będzie &#8222;Dziewczyna&#8221;?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

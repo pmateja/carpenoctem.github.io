@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Na opak	</title>
+	<atom:link href="/recenzje/na-opak/feed/" rel="self" type="application/rss+xml" />
+	<link>/recenzje/na-opak/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=na-opak</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Thu, 20 Apr 2017 11:08:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: Paweł Mateja		</title>
+		<link>/recenzje/na-opak/#comment-681</link>
+
+		<dc:creator><![CDATA[Paweł Mateja]]></dc:creator>
+		<pubDate>Thu, 20 Apr 2017 11:08:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=13230#comment-681</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;/recenzje/na-opak/#comment-680&quot;&gt;maszynistaGrot&lt;/a&gt;.
+
+Wiesz co, polecam jeszcze kiedyś do niech wrócić, myślę że warto. Są inne niż &quot;Zew pięknej&quot;, ale naprawdę nie gorsze. Ja w nich widzę naprawdę sporo z Grabińskiego, tylko w innym ujęciu, bardziej gawędziarskim. No a &quot;Io&quot; już wpada w klimaty Chambersa czy baśniowości Lovecrafta i wypada świetnie.]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="/recenzje/na-opak/#comment-680">maszynistaGrot</a>.</p>
+<p>Wiesz co, polecam jeszcze kiedyś do niech wrócić, myślę że warto. Są inne niż &#8222;Zew pięknej&#8221;, ale naprawdę nie gorsze. Ja w nich widzę naprawdę sporo z Grabińskiego, tylko w innym ujęciu, bardziej gawędziarskim. No a &#8222;Io&#8221; już wpada w klimaty Chambersa czy baśniowości Lovecrafta i wypada świetnie.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: maszynistaGrot		</title>
+		<link>/recenzje/na-opak/#comment-680</link>
+
+		<dc:creator><![CDATA[maszynistaGrot]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2017 11:47:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=13230#comment-680</guid>
+
+					<description><![CDATA[Rzeczywiście &quot;Zew pięknej&quot; jest wyjątkowym opowiadaniem, będzie trzeba kiedyś jeszcze do niego powrócić. 
+
+Co do pozostałych opowiadań bym polemizował. Przyznam, że za bardzo mi w pamięci nie pozostały, ale być może za szybko je przeczytałem.
+
+A co do kolejnych tomów to u mnie nic się nie zmieniło - priorytet cały czas mają Blackwood i Machen.]]></description>
+			<content:encoded><![CDATA[<p>Rzeczywiście &#8222;Zew pięknej&#8221; jest wyjątkowym opowiadaniem, będzie trzeba kiedyś jeszcze do niego powrócić. </p>
+<p>Co do pozostałych opowiadań bym polemizował. Przyznam, że za bardzo mi w pamięci nie pozostały, ale być może za szybko je przeczytałem.</p>
+<p>A co do kolejnych tomów to u mnie nic się nie zmieniło &#8211; priorytet cały czas mają Blackwood i Machen.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

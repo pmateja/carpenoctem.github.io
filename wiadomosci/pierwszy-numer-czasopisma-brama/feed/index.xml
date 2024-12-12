@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Pierwszy numer czasopisma BRAMA	</title>
+	<atom:link href="/wiadomosci/pierwszy-numer-czasopisma-brama/feed/" rel="self" type="application/rss+xml" />
+	<link>/wiadomosci/pierwszy-numer-czasopisma-brama/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=pierwszy-numer-czasopisma-brama</link>
+	<description>Podcast i strona poświęcone literaturze, a dokładniej horrorowi, thrillerowi i kryminałowi. Przyświeca nam idea czegoś więcej niż opinii typu &#34;fajne, kupcie&#34;, więc na Carpe Noctem znajdziecie czasem szczegółowe analizy i dyskusje o książkach, czasem poruszamy też tematy bardziej ogólne, zaś większość naszych odcinków to recenzje, ale prawdziwe, szczere i krytyczne recenzje książek.</description>
+	<lastBuildDate>Tue, 12 May 2015 21:17:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Autor: old weirdman		</title>
+		<link>/wiadomosci/pierwszy-numer-czasopisma-brama/#comment-109</link>
+
+		<dc:creator><![CDATA[old weirdman]]></dc:creator>
+		<pubDate>Tue, 12 May 2015 21:17:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=12032#comment-109</guid>
+
+					<description><![CDATA[Opowiadanie Wojtka Guni naprawdę robi wrażenie;mroczne weird fiction,końcówka bardzo niepokojąca. Polecam. Zapamiętacie ten tekst. Świetnie też,że Pan Paweł napisał dla Bramy esej o weird. Mam nadzieję,że nie ostatni raz.]]></description>
+			<content:encoded><![CDATA[<p>Opowiadanie Wojtka Guni naprawdę robi wrażenie;mroczne weird fiction,końcówka bardzo niepokojąca. Polecam. Zapamiętacie ten tekst. Świetnie też,że Pan Paweł napisał dla Bramy esej o weird. Mam nadzieję,że nie ostatni raz.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
